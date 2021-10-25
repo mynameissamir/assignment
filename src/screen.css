@@ -1,6 +1,8 @@
 /* Our CSS file. */
-
-
 .container, .content {
 width: 100%;
 }
+.part1 {width:50%; height:50%; float:left}
+.part2 {width:50%; height:50%; float:left}
+.part3 {width:50%; height:50%; float:left}    
+.part4 {width:50%; height:50%; float:left}
