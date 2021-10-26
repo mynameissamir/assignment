@@ -1,9 +1,54 @@
 /* Our CSS file. */
+
 .container, .content {
 width: 100%;
 }
 
-.part1 {width:50%; height:50%; float:left}
-.part2 {width:50%; height:50%; float:left}
-.part3 {width:50%; height:50%; float:left}    
-.part4 {width:50%; height:50%; float:left}
+img{
+     border-style: solid;
+    padding: 5px;
+    margin: 5px;
+   max-height:35%;
+   max-width: 25%;
+   
+   }
+
+.headerimg{
+    margin: 5px;
+   max-height:35%;
+    max-width: 30%;
+}
+.headerinput{
+    border-style: solid;
+    float: right;
+    margin: 5px;
+    margin-top: -10px;
+   max-height:35%;
+    max-width: 30%;
+}
+nav{
+    max-width: 30%;
+    margin: auto;
+}
+aside{
+    width: 20%;
+    padding-left: 15px;
+    margin-top: 10px;
+    float: left;
+    font-style: italic;
+    background-color: lightgray;
+    border-style:solid;
+    border-color: gray ;
+    border-width: 3px;
+}
+li{
+    padding: 5px;
+}
+.imgr1{
+    max-width: 15%;
+    max-height: 15%;
+    margin: auto;
+    margin-top: 20px;
+    margin-left: 23px;
+    align-items: center;
+}
